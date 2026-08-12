@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Techniques of AI — Exercise Sessions"
+type: software
+authors:
+  - family-names: Speelman
+    given-names: Sara
+    affiliation: "Vrije Universiteit Brussel, Department of Electronics and Informatics (ETRO)"
+  - family-names: Covaci
+    given-names: Andrei
+    affiliation: "Vrije Universiteit Brussel, Department of Electronics and Informatics (ETRO)"
+date-released: 2026-08-12
+version: 1.0.0
+license: CC-BY-NC-SA-4.0
+repository-code: "https://gitlab.com/etrovub/ai4wcm/teaching/tai-wpo-notebooks"
